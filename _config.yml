@@ -7,7 +7,7 @@ description: |
   New EP  
   Available now  
   
-owner: Your Name # or company name
+owner: Scott Churchley # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,11 +15,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/fridayharbourrocks
   facebook-official: https://facebook.com/fridayharbourrocks
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  #instagram:
-  #youtube-square:
+  instagram: https://www.instagram.com/fridayharbourrocks/
+  youtube-square: https://www.youtube.com/channel/UC3P6YegbAQ1jc8ZsRQwhpWg
   #spotify:
   #stack-overflow:
   #vimeo:
@@ -28,7 +28,7 @@ social:
   #delicious:
   #pied-piper:
   #digg:
-  #soundcloud:
+  soundcloud: https://soundcloud.com/fridayharbourrocks
   #deviantart:
   #angellist:
   #tumblr-square:
